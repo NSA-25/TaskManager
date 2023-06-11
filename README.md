@@ -7,3 +7,7 @@ Cerinte:
 4) Exista atat rute publice cat si private. Toate sunt public cu exceptia /tasks, care este accesibila doar utilizatorilor logati.
 5) Exita pagini de tip form, atat pentru login cat si pentru register
 6) Cand un utilizator este inregistrat datele sale sunt stocate in Firebase (RegisterPage).
+
+![Link inregistrare](https://youtu.be/kqqc3FMkuos)
+
+![Firebase](Firebase.png)
