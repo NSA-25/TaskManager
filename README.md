@@ -8,6 +8,6 @@ Cerinte:
 5) Exita pagini de tip form, atat pentru login cat si pentru register
 6) Cand un utilizator este inregistrat datele sale sunt stocate in Firebase (RegisterPage).
 
-![Link inregistrare](https://youtu.be/kqqc3FMkuos)
+![Link inregistrare]([https://youtu.be/kqqc3FMkuos](https://youtu.be/kqqc3FMkuos))
 
 ![Firebase](Firebase.png)
