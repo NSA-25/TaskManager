@@ -10,4 +10,6 @@ Cerinte:
 
 [Link inregistrare](https://youtu.be/kqqc3FMkuos)
 
+[Link repository cu toate fisierele](https://github.com/NSA-25/FullTaskManager)
+
 ![Firebase](Firebase.png)
